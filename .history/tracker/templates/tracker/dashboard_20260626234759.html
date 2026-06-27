@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NutriTrack</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+         background: #f5f5f5; color: #333; font-size: 14px; }
+
+  .topbar { background: #fff; padding: 10px 16px;
+            display: flex; align-items: center; justify-content: space-between;
+            box-shadow: 0 1px 4px rgba(0,0,0,.08); position: sticky; top: 0; z-index: 10; }
+  .topbar h1 { font-size: 16px; font-weight: 700; }
+  .logo-dot { color: #e8774b; }
+  .topbar .user { font-size: 12px; color: #aaa; }
+  .topbar a { color: #e8774b; font-size: 12px; text-decoration: none; font-weight: 600; }
+
+  .alert { padding: 8px 14px; margin: 8px 12px; border-radius: 8px;
+           font-size: 13px; background: #d4edda; color: #155724; }
+
+  /* 4 donuts en 2x2 */
+  .cards { display: grid; grid-template-columns: 1fr; gap: 8px; padding: 10px 12px 4px; }
+  .card { background: #fff; border-radius: 14px; padding: 10px 10px 8px;
+          box-shadow: 0 1px 6px rgba(0,0,0,.06); text-align: center; }
+  .card h3 { font-size: 11px; color: #999; margin-bottom: 6px; text-align: left; font-weight: 500; }
+
+  .donut-wrap { position: relative; width: 72px; height: 72px; margin: 0 auto 4px; }
+  .donut-wrap svg { transform: rotate(-90deg); }
+  .donut-bg   { fill: none; stroke: #f0f0f0; stroke-width: 10; }
+  .donut-fill { fill: none; stroke-width: 10; stroke-linecap: round; }
+  .donut-label { position: absolute; top: 50%; left: 50%;
+                 transform: translate(-50%, -50%);
+                 font-size: 15px; font-weight: 700; }
+  .card small { font-size: 10px; color: #bbb; }
+
+  .green  { stroke: #5ec96e; }
+  .orange { stroke: #f9a825; }
+  .blue   { stroke: #64b5f6; }
+  .pink   { stroke: #f06292; }
+
+  /* Stats compactos */
+  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 6px 12px 4px; }
+  .stat-card { background: #fff; border-radius: 12px; padding: 10px 12px;
+               box-shadow: 0 1px 6px rgba(0,0,0,.06); }
+  .stat-card .num { font-size: 22px; font-weight: 700; }
+  .stat-card .lbl { font-size: 10px; color: #f9a825; font-weight: 600; margin-top: 1px; }
+
+  /* Formulario */
+  .add-form { background: #fff; border-radius: 14px; margin: 8px 12px;
+              padding: 12px; box-shadow: 0 1px 6px rgba(0,0,0,.06); }
+  .add-form h3 { font-size: 13px; font-weight: 600; margin-bottom: 8px; }
+  .form-row  { display: grid; grid-template-columns: 2fr 1fr; gap: 6px; margin-bottom: 6px; }
+  .form-row2 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; margin-bottom: 8px; }
+  input[type=text], input[type=number] {
+    border: 1.5px solid #eee; border-radius: 8px; padding: 7px 10px;
+    font-size: 13px; width: 100%; outline: none; transition: border .2s; }
+  input:focus { border-color: #e8774b; }
+  .btn-add { background: linear-gradient(135deg, #e8774b, #f9a825);
+             color: #fff; border: none; border-radius: 10px; padding: 9px;
+             width: 100%; font-size: 14px; font-weight: 600; cursor: pointer; }
+
+  /* Lista */
+  .entries { padding: 4px 12px 90px; }
+  .entries h3 { font-size: 12px; font-weight: 600; margin-bottom: 6px; color: #888; }
+  .entry { background: #fff; border-radius: 10px; padding: 9px 12px;
+           margin-bottom: 6px; display: flex; justify-content: space-between;
+           align-items: center; box-shadow: 0 1px 4px rgba(0,0,0,.05); }
+  .entry .name { font-size: 13px; font-weight: 500; }
+  .entry .meta { font-size: 11px; color: #bbb; margin-top: 1px; }
+  .entry .cal  { font-size: 15px; font-weight: 700; color: #e8774b; }
+  .del-btn { background: none; border: none; color: #ddd; cursor: pointer; font-size: 16px; padding: 2px 6px; }
+  .del-btn:hover { color: #e55; }
+
+  /* Nav */
+  .bottom-nav { position: fixed; bottom: 0; left: 0; right: 0;
+                background: #fff; display: flex; justify-content: space-around;
+                padding: 10px 0 16px; box-shadow: 0 -1px 8px rgba(0,0,0,.08); }
+  .nav-item { display: flex; flex-direction: column; align-items: center;
+              font-size: 10px; color: #bbb; text-decoration: none; gap: 2px; }
+  .nav-item.active { color: #e8774b; }
+  .nav-icon { font-size: 20px; }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>Nutri<span class="logo-dot">Track</span></h1>
+  <span class="user">{{ request.user.username }}</span>
+  <a href="{% url 'logout' %}">Logout</a>
+</div>
+
+{% if messages %}{% for msg in messages %}
+  <div class="alert">{{ msg }}</div>
+{% endfor %}{% endif %}
+
+<div class="cards">
+  <div class="card" style="display:flex;align-items:center;gap:16px;text-align:left;">
+    <div class="donut-wrap" style="flex-shrink:0;width:90px;height:90px;">
+      <svg viewBox="0 0 100 100" width="90" height="90">
+        <circle class="donut-bg" cx="50" cy="50" r="45"/>
+        <circle class="donut-fill green" cx="50" cy="50" r="45"
+          stroke-dasharray="{% widthratio cal_pct 100 283 %} 283"/>
+      </svg>
+      <div class="donut-label" style="font-size:18px;">{{ cal_pct }}%</div>
+    </div>
+    <div>
+      <div style="font-size:11px;color:#999;margin-bottom:4px;">Calories Today</div>
+      <div style="font-size:24px;font-weight:700;">{{ cal_total }}</div>
+      <div style="font-size:11px;color:#bbb;">of {{ daily_goal }} kcal</div>
+      <div style="margin-top:8px;display:flex;gap:10px;">
+        <span style="font-size:11px;color:#f9a825;">P <b>{{ pro_total }}g</b></span>
+        <span style="font-size:11px;color:#64b5f6;">C <b>{{ car_total }}g</b></span>
+        <span style="font-size:11px;color:#f06292;">F <b>{{ fat_total }}g</b></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="stat-card">
+    <div class="num">{{ cal_total }}</div>
+    <div class="lbl">kcal consumed</div>
+  </div>
+  <div class="stat-card">
+    <div class="num" style="color:#64b5f6">{{ remaining }}</div>
+    <div class="lbl" style="color:#64b5f6">kcal remaining</div>
+  </div>
+</div>
+
+<div class="add-form">
+  <h3>➕ Add Food</h3>
+  <form method="post" action="{% url 'add_entry' %}">
+    {% csrf_token %}
+    <div class="form-row">
+      <input type="text" name="name" placeholder="Food name" required>
+      <input type="number" name="calories" placeholder="kcal" min="0" required>
+    </div>
+    <div class="form-row2">
+      <input type="number" name="protein" placeholder="Protein g" min="0" step="0.1">
+      <input type="number" name="carbs" placeholder="Carbs g" min="0" step="0.1">
+      <input type="number" name="fat" placeholder="Fat g" min="0" step="0.1">
+    </div>
+    <button type="submit" class="btn-add">Add Food</button>
+  </form>
+</div>
+
+<div class="entries">
+  <h3>Today — {{ today }}</h3>
+  {% for entry in entries %}
+  <div class="entry">
+    <div>
+      <div class="name">{{ entry.name }}</div>
+      <div class="meta">P {{ entry.protein }}g · C {{ entry.carbs }}g · F {{ entry.fat }}g</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:6px">
+      <span class="cal">{{ entry.calories }}</span>
+      <form method="post" action="{% url 'delete_entry' entry.pk %}">
+        {% csrf_token %}<button class="del-btn" type="submit">✕</button>
+      </form>
+    </div>
+  </div>
+  {% empty %}
+    <p style="color:#bbb;font-size:12px;text-align:center;padding:16px">No entries yet today.</p>
+  {% endfor %}
+</div>
+
+<nav class="bottom-nav">
+  <a class="nav-item active" href="{% url 'dashboard' %}"><span class="nav-icon">🍎</span>Track</a>
+  <a class="nav-item" href="{% url 'dashboard' %}"><span class="nav-icon">📊</span>Stats</a>
+  <a class="nav-item" href="{% url 'dashboard' %}"><span class="nav-icon">👤</span>Profile</a>
+</nav>
+
+</body>
+</html>

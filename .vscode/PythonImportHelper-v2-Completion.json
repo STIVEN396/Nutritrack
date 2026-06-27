@@ -1,0 +1,1376 @@
+[
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "SECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'nutritrack.urls'",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626233523",
+        "description": ".history.nutritrack.settings_20260626233523",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "SECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'hitenoise.middleware.WhiteNoiseMiddleware'\n]",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235338",
+        "description": ".history.nutritrack.settings_20260626235338",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235338",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "SECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'hitenoise.middleware.WhiteNoiseMiddleware'\n]",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235346",
+        "description": ".history.nutritrack.settings_20260626235346",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235346",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "SECRET_KEY = 'nutritrack-secret-key-2024'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nimport os\nDEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware'\n]",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235501",
+        "description": ".history.nutritrack.settings_20260626235501",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235501",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware'\n]",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235638",
+        "description": ".history.nutritrack.settings_20260626235638",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235638",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'nutritrack.urls'",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": ".history.nutritrack.settings_20260626235656",
+        "description": ".history.nutritrack.settings_20260626235656",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": ".history.nutritrack.settings_20260626235656",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626233523",
+        "description": ".history.tracker.views_20260626233523",
+        "peekOfCode": "def dashboard(request):\n    today = date.today()\n    entries = FoodEntry.objects.filter(user=request.user, date=today)\n    totals = entries.aggregate(\n        cal=Sum('calories'), pro=Sum('protein'),\n        car=Sum('carbs'), fat=Sum('fat')\n    )\n    cal_total  = totals['cal'] or 0\n    pro_total  = totals['pro'] or 0\n    car_total  = totals['car'] or 0",
+        "detail": ".history.tracker.views_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "add_entry",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626233523",
+        "description": ".history.tracker.views_20260626233523",
+        "peekOfCode": "def add_entry(request):\n    if request.method == 'POST':\n        name     = request.POST.get('name', '').strip()\n        calories = request.POST.get('calories', 0)\n        protein  = request.POST.get('protein', 0)\n        carbs    = request.POST.get('carbs', 0)\n        fat      = request.POST.get('fat', 0)\n        if name and calories:\n            FoodEntry.objects.create(\n                user=request.user, name=name,",
+        "detail": ".history.tracker.views_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "delete_entry",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626233523",
+        "description": ".history.tracker.views_20260626233523",
+        "peekOfCode": "def delete_entry(request, pk):\n    entry = get_object_or_404(FoodEntry, pk=pk, user=request.user)\n    entry.delete()\n    messages.success(request, 'Entry deleted.')\n    return redirect('dashboard')\ndef register(request):\n    if request.method == 'POST':\n        form = UserCreationForm(request.POST)\n        if form.is_valid():\n            form.save()",
+        "detail": ".history.tracker.views_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626233523",
+        "description": ".history.tracker.views_20260626233523",
+        "peekOfCode": "def register(request):\n    if request.method == 'POST':\n        form = UserCreationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, 'Account created! You can now log in.')\n            return redirect('login')\n    else:\n        form = UserCreationForm()\n    return render(request, 'tracker/register.html', {'form': form})",
+        "detail": ".history.tracker.views_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "DAILY_GOAL",
+        "kind": 5,
+        "importPath": ".history.tracker.views_20260626233523",
+        "description": ".history.tracker.views_20260626233523",
+        "peekOfCode": "DAILY_GOAL = 2000  # kcal goal\n@login_required\ndef dashboard(request):\n    today = date.today()\n    entries = FoodEntry.objects.filter(user=request.user, date=today)\n    totals = entries.aggregate(\n        cal=Sum('calories'), pro=Sum('protein'),\n        car=Sum('carbs'), fat=Sum('fat')\n    )\n    cal_total  = totals['cal'] or 0",
+        "detail": ".history.tracker.views_20260626233523",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626234557",
+        "description": ".history.tracker.views_20260626234557",
+        "peekOfCode": "def dashboard(request):\n    today = date.today()\n    entries = FoodEntry.objects.filter(user=request.user, date=today)\n    totals = entries.aggregate(\n        cal=Sum('calories'), pro=Sum('protein'),\n        car=Sum('carbs'), fat=Sum('fat')\n    )\n    cal_total  = totals['cal'] or 0\n    pro_total  = totals['pro'] or 0\n    car_total  = totals['car'] or 0",
+        "detail": ".history.tracker.views_20260626234557",
+        "documentation": {}
+    },
+    {
+        "label": "add_entry",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626234557",
+        "description": ".history.tracker.views_20260626234557",
+        "peekOfCode": "def add_entry(request):\n    if request.method == 'POST':\n        name     = request.POST.get('name', '').strip()\n        calories = request.POST.get('calories', 0)\n        protein  = request.POST.get('protein', 0)\n        carbs    = request.POST.get('carbs', 0)\n        fat      = request.POST.get('fat', 0)\n        if name and calories:\n            FoodEntry.objects.create(\n                user=request.user, name=name,",
+        "detail": ".history.tracker.views_20260626234557",
+        "documentation": {}
+    },
+    {
+        "label": "delete_entry",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626234557",
+        "description": ".history.tracker.views_20260626234557",
+        "peekOfCode": "def delete_entry(request, pk):\n    entry = get_object_or_404(FoodEntry, pk=pk, user=request.user)\n    entry.delete()\n    messages.success(request, 'Entry deleted.')\n    return redirect('dashboard')\ndef register(request):\n    if request.method == 'POST':\n        form = UserCreationForm(request.POST)\n        if form.is_valid():\n            form.save()",
+        "detail": ".history.tracker.views_20260626234557",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": ".history.tracker.views_20260626234557",
+        "description": ".history.tracker.views_20260626234557",
+        "peekOfCode": "def register(request):\n    if request.method == 'POST':\n        form = UserCreationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, 'Account created! You can now log in.')\n            return redirect('login')\n    else:\n        form = UserCreationForm()\n    return render(request, 'tracker/register.html', {'form': form})",
+        "detail": ".history.tracker.views_20260626234557",
+        "documentation": {}
+    },
+    {
+        "label": "DAILY_GOAL",
+        "kind": 5,
+        "importPath": ".history.tracker.views_20260626234557",
+        "description": ".history.tracker.views_20260626234557",
+        "peekOfCode": "DAILY_GOAL = 2000  # kcal goal\n@login_required\ndef dashboard(request):\n    today = date.today()\n    entries = FoodEntry.objects.filter(user=request.user, date=today)\n    totals = entries.aggregate(\n        cal=Sum('calories'), pro=Sum('protein'),\n        car=Sum('carbs'), fat=Sum('fat')\n    )\n    cal_total  = totals['cal'] or 0",
+        "detail": ".history.tracker.views_20260626234557",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'tracker',\n]\nMIDDLEWARE = [",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'nutritrack.urls'",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "ROOT_URLCONF = 'nutritrack.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'\nLOGOUT_REDIRECT_URL = '/login/'",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "nutritrack.settings",
+        "description": "nutritrack.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = '/login/'",
+        "detail": "nutritrack.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "nutritrack.urls",
+        "description": "nutritrack.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('tracker.urls')),\n    path('login/', auth_views.LoginView.as_view(template_name='tracker/login.html'), name='login'),\n    path('logout/', auth_views.LogoutView.as_view(), name='logout'),\n]",
+        "detail": "nutritrack.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "tracker.migrations.0001_initial",
+        "description": "tracker.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='FoodEntry',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "tracker.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "TrackerConfig",
+        "kind": 6,
+        "importPath": "tracker.apps",
+        "description": "tracker.apps",
+        "peekOfCode": "class TrackerConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'tracker'",
+        "detail": "tracker.apps",
+        "documentation": {}
+    },
+    {
+        "label": "FoodEntry",
+        "kind": 6,
+        "importPath": "tracker.models",
+        "description": "tracker.models",
+        "peekOfCode": "class FoodEntry(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    name = models.CharField(max_length=100)\n    calories = models.PositiveIntegerField()\n    protein = models.FloatField(default=0)   # grams\n    carbs = models.FloatField(default=0)     # grams\n    fat = models.FloatField(default=0)       # grams\n    date = models.DateField(auto_now_add=True)\n    class Meta:\n        ordering = ['-date', '-id']",
+        "detail": "tracker.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "tracker.urls",
+        "description": "tracker.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.dashboard, name='dashboard'),\n    path('add/', views.add_entry, name='add_entry'),\n    path('delete/<int:pk>/', views.delete_entry, name='delete_entry'),\n    path('register/', views.register, name='register'),\n]",
+        "detail": "tracker.urls",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "tracker.views",
+        "description": "tracker.views",
+        "peekOfCode": "def dashboard(request):\n    today = date.today()\n    entries = FoodEntry.objects.filter(user=request.user, date=today)\n    totals = entries.aggregate(\n        cal=Sum('calories'), pro=Sum('protein'),\n        car=Sum('carbs'), fat=Sum('fat')\n    )\n    cal_total  = totals['cal'] or 0\n    pro_total  = totals['pro'] or 0\n    car_total  = totals['car'] or 0",
+        "detail": "tracker.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_entry",
+        "kind": 2,
+        "importPath": "tracker.views",
+        "description": "tracker.views",
+        "peekOfCode": "def add_entry(request):\n    if request.method == 'POST':\n        name     = request.POST.get('name', '').strip()\n        calories = request.POST.get('calories', 0)\n        protein  = request.POST.get('protein', 0)\n        carbs    = request.POST.get('carbs', 0)\n        fat      = request.POST.get('fat', 0)\n        if name and calories:\n            FoodEntry.objects.create(\n                user=request.user, name=name,",
+        "detail": "tracker.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_entry",
+        "kind": 2,
+        "importPath": "tracker.views",
+        "description": "tracker.views",
+        "peekOfCode": "def delete_entry(request, pk):\n    entry = get_object_or_404(FoodEntry, pk=pk, user=request.user)\n    entry.delete()\n    messages.success(request, 'Entry deleted.')\n    return redirect('dashboard')\ndef register(request):\n    if request.method == 'POST':\n        form = UserCreationForm(request.POST)\n        if form.is_valid():\n            form.save()",
+        "detail": "tracker.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "tracker.views",
+        "description": "tracker.views",
+        "peekOfCode": "def register(request):\n    if request.method == 'POST':\n        form = UserCreationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, 'Account created! You can now log in.')\n            return redirect('login')\n    else:\n        form = UserCreationForm()\n    return render(request, 'tracker/register.html', {'form': form})",
+        "detail": "tracker.views",
+        "documentation": {}
+    },
+    {
+        "label": "DAILY_GOAL",
+        "kind": 5,
+        "importPath": "tracker.views",
+        "description": "tracker.views",
+        "peekOfCode": "DAILY_GOAL = 2000  # kcal goal\n@login_required\ndef dashboard(request):\n    today = date.today()\n    entries = FoodEntry.objects.filter(user=request.user, date=today)\n    totals = entries.aggregate(\n        cal=Sum('calories'), pro=Sum('protein'),\n        car=Sum('carbs'), fat=Sum('fat')\n    )\n    cal_total  = totals['cal'] or 0",
+        "detail": "tracker.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'nutritrack.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\"Couldn't import Django.\") from exc\n    execute_from_command_line(sys.argv)\nif __name__ == '__main__':\n    main()",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
